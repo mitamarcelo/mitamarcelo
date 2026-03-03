@@ -1,0 +1,29 @@
+name: Update Profile Stats
+
+on:
+  repository_dispatch:
+    types: [update-profile]
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - run: mkdir -p data
+
+      - run: node scripts/aggregateStats.js
+      - run: node scripts/updateReadme.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Auto update profile stats" || echo "No changes"
+          git push
