@@ -21,12 +21,26 @@ I build publicly and treat my GitHub profile as a living engineering dashboard.
 
 ## 📊 Global GitHub Stats
 <!--START_GLOBAL_STATS-->
+
+- 📦 Public Repositories: **4**
+- ⭐ Total Stars: **0**
+- 🍴 Total Forks: **0**
+- 👀 Watchers: **0**
+- 🛠 Open Issues: **0**
+- 🤖 AI-related Repositories: **0**
+
 <!--END_GLOBAL_STATS-->
 
 ## 🚀 Most Active Repositories
 <!--START_ACTIVE_REPOS-->
+- 🔹 [mitamarcelo](https://github.com/mitamarcelo/mitamarcelo) — Updated Tue Mar 03 2026
+- 🔹 [profile-sync-action](https://github.com/mitamarcelo/profile-sync-action) — Updated Tue Mar 03 2026
+- 🔹 [clock-application](https://github.com/mitamarcelo/clock-application) — Updated Tue Mar 03 2026
+- 🔹 [be_fe_boilerplate](https://github.com/mitamarcelo/be_fe_boilerplate) — Updated Tue Mar 03 2026
 <!--END_ACTIVE_REPOS-->
 
 ## 🧠 Language Distribution
 <!--START_LANG_STATS-->
+- TypeScript: 2 repos
+- JavaScript: 1 repos
 <!--END_LANG_STATS-->
