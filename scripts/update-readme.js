@@ -1,4 +1,4 @@
-import fs from "fs";
+const fs = require("fs");
 
 const readme = fs.readFileSync("README.md", "utf8");
 const stats = JSON.parse(fs.readFileSync("data/stats.json"));
