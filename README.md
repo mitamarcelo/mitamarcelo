@@ -22,7 +22,7 @@ I build publicly and treat my GitHub profile as a living engineering dashboard.
 ## 📊 Global GitHub Stats
 <!--START_GLOBAL_STATS-->
 
-- 📦 Public Repositories: **6**
+- 📦 Public Repositories: **7**
 - ⭐ Total Stars: **0**
 - 🍴 Total Forks: **0**
 - 👀 Watchers: **0**
@@ -33,15 +33,15 @@ I build publicly and treat my GitHub profile as a living engineering dashboard.
 
 ## 🚀 Most Active Repositories
 <!--START_ACTIVE_REPOS-->
+- 🔹 [prismatica](https://github.com/mitamarcelo/prismatica) — Updated Fri Apr 17 2026
 - 🔹 [mitamarcelo](https://github.com/mitamarcelo/mitamarcelo) — Updated Fri Apr 17 2026
 - 🔹 [everything-claude-code](https://github.com/mitamarcelo/everything-claude-code) — Updated Mon Apr 13 2026
 - 🔹 [canopen](https://github.com/mitamarcelo/canopen) — Updated Thu Mar 26 2026
 - 🔹 [profile-sync-action](https://github.com/mitamarcelo/profile-sync-action) — Updated Tue Mar 03 2026
-- 🔹 [clock-application](https://github.com/mitamarcelo/clock-application) — Updated Tue Mar 03 2026
 <!--END_ACTIVE_REPOS-->
 
 ## 🧠 Language Distribution
 <!--START_LANG_STATS-->
 - TypeScript: 2 repos
-- JavaScript: 1 repos
+- JavaScript: 2 repos
 <!--END_LANG_STATS-->
